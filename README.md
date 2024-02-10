@@ -1,7 +1,14 @@
-- 👋 Olá!, Eu sou o Berg Barbosa.
-- 🌱 Atualmente estou estudando <img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">, <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> && <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">.
-- 🖳 Iniciando agora em fevereiro de 2024, o curso em <strong>Análise e Desenvolvimento de Sistemas.</strong>
-- 📫 Contato: wandemberg_dsb@hotmail.com
+<div style="display: flex" align="center">
+<h1>👋 Olá!, Eu sou o Berg Barbosa.</h1>
+<h2>Atualmente estou estudando
+<img align="center" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
+<img align="center" src = "https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge"></h2>
+<p> 🖳 Iniciando agora em fevereiro de 2024, o curso em <strong>Análise e Desenvolvimento de Sistemas.</p></strong>
+<span>📫 Contato: wandemberg_dsb@hotmail.com</span>
+</div>
+
+
 
 <!---
 BergBarbosa/BergBarbosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
