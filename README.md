@@ -1,6 +1,6 @@
 # Olá, eu sou o Wandemberg. Ou mais fácil... Berg! 👋
 
-🎓 Estudante dedicado de **Java**, **Git** e **GitHub**.
+🎓 Estudante dedicado de **Java** e **Git**.
 🚀 Em transição de carreira, me preparando para entrar de vez no mundo da **tecnologia**.  
 💡 Apaixonado por aprender, construir e evoluir com a comunidade dev  
 📚 Focado em entender o mundo da tecnologia e assim fortalecer meu aprendizado e dar início a criação de projetos que reflitam minha evolução como desenvolvedor.
